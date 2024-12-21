@@ -1,5 +1,16 @@
 # Project Name
 
+> [!TIP]
+> **Tips & Tricks:**
+> - You can mension issues in MD like so: _`#1`_
+> - You can also mension teams/people: _`@flint-studios/council`_
+> - You can also use footnotes. [^1]
+
+> [!WARNING]
+> Remove the above tip along with this one and replace all placeholder text!
+
+[^1]: Like This
+
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 ![Static Badge](https://img.shields.io/badge/build-passing-darkcyan)
 
